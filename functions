@@ -1,0 +1,1 @@
+compare 2 array and filter common elements: this.verifyMediaListTmp.filter(x => this.filterMediaArray.findIndex(y => y === x.sub_type) !== -1);
